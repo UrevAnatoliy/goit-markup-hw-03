@@ -57,7 +57,7 @@ color:  #4d5ae5;
 .wrap {
     width: 1440px;
     height: 72px;
-    margin: 76px;
+    margin-right: 0 auto;
     display: flex;
 }
 
