@@ -27,15 +27,6 @@ ul,ol {
     box-sizing: border-box;
 }
 
-.logo {
-font-family: Raleway, sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color:  #4d5ae5;
-}
 
 .logo-part {
     font-size: 18px;
@@ -55,6 +46,13 @@ color:  #4d5ae5;
 }
 
 .wrap {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:  #4d5ae5;
     width: 1440px;
     height: 72px;
     margin-right: 0 auto;
