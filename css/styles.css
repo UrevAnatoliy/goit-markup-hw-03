@@ -52,9 +52,12 @@ color:  #4d5ae5;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    display: flex;
-    gap: 76px;
-    margin-right: auto;
+}
+
+.wrap {
+    width: 1440px;
+    height: 72px;
+    margin: 0 auto;
 }
 
 .nav-link:hover,
