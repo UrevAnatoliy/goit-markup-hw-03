@@ -1,0 +1,261 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,ol {
+    list-style-type: none;
+}
+
+.logo {
+font-family: Raleway, sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color:  #4d5ae5;
+}
+
+.logo-part {
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.nav-link:hover,
+.nav-link:focus{
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+}
+
+.address-link {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.address-link:hover,
+.address-link:focus {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
+}
+
+.hero {
+background-color: #2E2F42; 
+}
+
+.hero-title { 
+font-size: 56px;
+letter-spacing: 0.02em;
+line-height: 60px;
+line-height: 1.07;
+text-align: center;
+color: #fff;
+}
+
+button {
+color:   #ffffff ;
+font-weight: 500;
+text-align: center;
+background-color: #4d5ae5;
+line-height: 1.5;
+letter-spacing: 0.04em;
+cursor: pointer; 
+}
+
+.hero-button:hover {
+font-weight: 500;
+background-color: #404BBF;
+cursor: pointer;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color:  #fff;
+}
+
+.hero-button:focus {
+    background-color: #404BBF;
+}
+
+.hero-button-link:focus {
+font-size: 16px;
+background: #404BBF;
+letter-spacing: 0.04em;
+line-height: 1.5;
+}
+
+
+.benefits-subtitle {
+    font-weight: 500;
+    font-size: 56px;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.team {
+    background-color: #F4F4FD 
+}
+
+.benefits {
+    background-color: #F4F4FD;
+}
+
+.benefits-item-text {
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.sellers-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+
+reviews-subtitle {
+font-weight: 500;
+font-size: 20px;
+letter-spacing: 0.02em;
+line-height: 1.11;
+text-align: center;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+
+reviews-subtitle :hover {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+.reviews-item-text {
+background-color: #FFFFFF;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+
+.reviews-item-text :hover {
+font-size: 16px; 
+letter-spacing: 0.02em;
+line-height: 1.5;
+text-align: center;
+color: #434455;
+}
+
+.reviews-item {
+    background-color: #FFFFFF;
+}
+
+
+.sellers-title {
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+
+.reviews-subtitle {
+font-weight: 500;
+font-size: 20px;
+letter-spacing: 0.02em;
+line-height: 1.2;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+
+.reviews-subtitle :hover{
+font-weight: 500;
+font-size: 20px;
+letter-spacing: 0.02em;
+line-height: 1.2;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+.reviews-item-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+
+.reviews-item-text :hover {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+
+footer {
+background-color: #2e2f42;
+}
+
+.gap footer logo-part {
+line-height: 1.5;
+letter-spacing: 0.02em;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px; 
+line-height: 1.5;
+letter-spacing: 0.03em;
+color: #f4f4fd;
+}
+
+.letter {
+    color: #f4f4fd;
+}
+
+.footer-text {
+font-weight: 400;
+width: 264px;
+font-size: 16px; 
+line-height: 1.5;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+
