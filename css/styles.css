@@ -106,12 +106,12 @@ ul,ol {
     font-style: normal;
     margin-left: auto;
 }
-
 .address-link {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+margin-left: auto;
 }
 
 .address-link:hover,
@@ -134,6 +134,8 @@ line-height: 1.07;
 text-align: center;
 color: #fff;
 max-width: 700px;
+display: flex;
+align-items: center;
 }
 
 button {
@@ -148,6 +150,8 @@ cursor: pointer;
 
 .hero-button {
     padding: 16px 32px;
+    display: flex;
+    align-items: center;
 }
 
 .hero-button:hover {
