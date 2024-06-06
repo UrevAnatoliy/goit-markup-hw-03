@@ -135,29 +135,23 @@ line-height: 60px;
 line-height: 1.07;
 text-align: center;
 color: #fff;
+max-width: 700px;
 }
 
-.hero-title-container {
-    display: flex;
-    align-items: center;
-    max-width: 700px;
-}
-
-button {
+   
+.button {
 color:   #ffffff ;
 font-weight: 500;
 text-align: center;
 background-color: #4d5ae5;
 line-height: 1.5;
 letter-spacing: 0.04em;
-cursor: pointer; 
+cursor: pointer;
+padding: 16px 32px;
+display: flex;
+align-items: center; 
 }
 
-.hero-button-container {
-    padding: 16px 32px;
-    display: flex;
-    align-items: center;
-}
 
 .hero-button:hover {
 font-weight: 500;
