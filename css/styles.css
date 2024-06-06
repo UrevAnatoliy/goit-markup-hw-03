@@ -135,9 +135,12 @@ line-height: 60px;
 line-height: 1.07;
 text-align: center;
 color: #fff;
-max-width: 700px;
-display: flex;
-align-items: center;
+}
+
+.hero-title-container {
+    display: flex;
+    align-items: center;
+    max-width: 700px;
 }
 
 button {
@@ -150,7 +153,7 @@ letter-spacing: 0.04em;
 cursor: pointer; 
 }
 
-.hero-button {
+.hero-button-container {
     padding: 16px 32px;
     display: flex;
     align-items: center;
