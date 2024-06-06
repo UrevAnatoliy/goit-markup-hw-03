@@ -65,7 +65,7 @@ ul,ol {
 }
 
 
-.address-container {
+.address {
     display: flex;
     align-items: center;
     margin-right: auto;
@@ -104,11 +104,9 @@ ul,ol {
 
 .address {
     font-style: normal;
-}
-
-.address-container {
     margin-left: auto;
 }
+ 
 
 .address-link {
 font-size: 16px;
