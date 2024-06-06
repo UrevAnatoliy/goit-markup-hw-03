@@ -104,8 +104,12 @@ ul,ol {
 
 .address {
     font-style: normal;
+}
+
+.address-container {
     margin-left: auto;
 }
+
 .address-link {
 font-size: 16px;
 line-height: 1.5;
@@ -183,6 +187,14 @@ line-height: 1.5;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    margin-bottom: 8px;
+}
+
+.benefits-list {
+    display: flex;
+    padding: 0 156px;
+    gap: 24px;
+    width: calc(100% - 3 * 24px) / 4;
 }
 
 .team {
