@@ -27,7 +27,7 @@ ul,ol {
     box-sizing: border-box;
 }
 
-.logo {
+.header-logo {
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -35,8 +35,39 @@ ul,ol {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:  #4d5ae5;
+    display: flex;
+    align-items: center;
 }
 
+
+.header-navigator {
+        display: flex;
+        align-items: center;
+        flex-grow: 1;
+        justify-content: space-between;
+    }
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+
+.header-menu-list{
+    display: flex;
+    gap: 40px;
+}
+
+
+.address-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-social-list {
+    display: flex;
+    gap: 40px;
+}
 
 .logo-part {
     font-size: 18px;
