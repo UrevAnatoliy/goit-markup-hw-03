@@ -62,7 +62,6 @@ ul,ol {
 .address-container {
     display: flex;
     align-items: center;
-    gap: 832px;
 }
 
 .header-social-list {
